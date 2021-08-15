@@ -31,3 +31,7 @@ Tinder UI Clone built using the MERN Stack (MongoDB, Express, React and Node)
 ## Database
 
 - MongoDB
+
+## Screenshot
+
+![Screenshot](screenshot.png)
